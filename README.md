@@ -35,7 +35,7 @@ An interactive **Power BI Dashboard** built to analyze e-commerce sales performa
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpg)
 
 ---
 
